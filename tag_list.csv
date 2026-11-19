@@ -1,0 +1,15 @@
+tag,description
+B1.AHU01.SAT,Supply air temperature
+B1.AHU01.SAT_SP,Supply air temperature setpoint
+B1.AHU01.RAT,Return air temperature
+B1.AHU01.SF.STS,Supply fan status
+B1.AHU01.SF.SPD_CMD,Supply fan speed command
+B1.AHU01.RF.STS,Return fan status
+B1.AHU01.FLT.DP,Filter differential pressure
+B1.AHU01.OAD.CMD,Outside air damper position command
+B1.AHU01.CHW_VLV.CMD,Chilled water valve command
+B1.AHU01.HW_VLV.CMD,Hot water valve command
+B1.AHU02.SAT,Supply air temperature
+B1.AHU02.SF.STS,Supply fan status
+B1.AHU02.FLT.DP,Filter differential pressure
+B1.AHU02.XYZ_99,Unknown signal
